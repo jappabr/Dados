@@ -108,14 +108,5 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="bin\Debug\img\dado0.png" />
-    <Content Include="bin\Debug\img\dado1.png" />
-    <Content Include="bin\Debug\img\dado2.png" />
-    <Content Include="bin\Debug\img\dado3.png" />
-    <Content Include="bin\Debug\img\dado4.png" />
-    <Content Include="bin\Debug\img\dado5.png" />
-    <Content Include="bin\Debug\img\dado6.png" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
